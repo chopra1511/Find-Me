@@ -1,0 +1,170 @@
+body{
+	margin: 0;
+}
+
+.normal{
+	text-align: center;
+	width: 98.9vw;
+	height: 100vh;
+	background-color: #222831;
+  	
+}
+
+.pnormal{
+	margin: 0;
+	padding-top: 40vh;
+	text-align: center;
+	font-size: 3em;
+	color: white;
+	font-family: Franklin Gothic Book;
+}
+
+.btn-outline-info:hover{
+	color: white;
+}
+
+.btn-outline-info{
+	margin-top: 20px;
+	color: white;
+	border-color: white;
+	border-radius: 0;
+	font-family: Franklin Gothic Book;
+}
+
+.navigation{
+	background-color: #1A1C20;
+	width: 98.9vw;
+	display: block;
+	position: fixed;
+	top: 0;
+}
+
+.nav-link{
+	color: white;
+}
+
+.nav-link:hover{
+	color: #FF0000;
+}
+
+.about{
+	text-align: center;
+	width: 98.9vw;
+	height: 100vh;
+}
+
+.h2{
+	padding-top: 75px;
+	font-size: 60px;
+	font-family: Gill Sans MT;
+}
+
+hr{
+	margin: auto;
+	display: block;
+	width: 5vw;
+	border-width: 2px;
+	border: solid;
+}
+#hr{
+	margin: auto;
+	display: block;
+	width: 5vw;
+	border-width: 2px;
+	border: solid white;
+}
+.container{
+	margin-top: 125px 0;
+}
+
+img{
+	width: 250px;
+	height: 240px;
+	margin-bottom: 30px;
+}
+
+h3{
+	font-family: Gill Sans MT;
+}
+
+.ap{
+	padding: 10px 270px;
+	font-family: Gill Sans MT;
+}
+
+.skills{
+	background-color: #EEEEEE;
+	text-align: center;
+	width: 98.9vw;
+	height: 100vh;
+}
+
+.contact{
+	text-align: center;
+	background-color: #222831;
+	width: 98.9vw;
+	height: 80vh;
+}
+
+.connect{
+	padding: 50px;
+	text-align: center;
+	background-color: #1A1C20;
+	width: 98.9vw;
+	height: 20vh;
+}
+
+.container-2{
+	padding: 60px 350px 40px;
+}
+
+.p-2{
+	color: white;
+	background-color: #BD1616;
+}
+
+#h2{
+	padding-top: 75px;
+	font-size: 60px;
+	font-family: Gill Sans MT;
+	color: white;
+}
+
+.cc{
+	padding: 50px;
+}
+.arrow:hover{
+	width: 80px;
+	height: 80px;
+}
+.arrow{
+	width: 70px;
+	height: 70px;
+}
+
+.con:hover{
+	width: 25px;
+	height: 25px;
+}
+.con{
+	margin: 20px 10px;
+	width: 20px;
+	height: 20px;
+}
+
+input,textarea{
+	padding-left: 10px;
+	margin-bottom: 5px;
+	width: 30vw;
+	height: 7vh;
+	background-color: black;
+	color: white;
+	border: 0;
+}
+textarea{
+	height: 15vh;
+}
+
+.row{
+	padding: 50px;	
+}
